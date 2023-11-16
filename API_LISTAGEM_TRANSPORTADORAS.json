@@ -1,0 +1,59 @@
+{
+   "status": 1,
+   "code": 200,
+   "message": "Solicitação atendida com sucesso!",
+   "description": "API de listagem de transportadoras.",
+   "data": [
+     {
+       "_id": "1f0a1c69-3e02-4f40-a10e-1b8c80d5d7c6",
+       "_cnpj": 1234567890001,
+       "_fantasia": "SWIFT CARGO"
+     },
+     {
+       "_id": "b03aae7e-2014-4a1b-8fbf-589f7e42c39e",
+       "_cnpj": 9876543210001,
+       "_fantasia": "BLUE ARROW LOGISTICS"
+     },
+     {
+       "_id": "7de173f7-6708-4c02-82a4-83ee1f6172e5",
+       "_cnpj": 5678901230001,
+       "_fantasia": "EXPRESS WINGS"
+     },
+     {
+       "_id": "f7b59a8e-d4ad-4cb3-b2f1-3dbcf20888f4",
+       "_cnpj": 3456789010001,
+       "_fantasia": "GULLIVER EXPRESS"
+     },
+     {
+       "_id": "52f2e4b8-12a6-468e-b62f-3a38ee6d69e0",
+       "_cnpj": 8901234560001,
+       "_fantasia": "GLOBAL TRANSPORTS"
+     },
+     {
+       "_id": "2c71e3b0-1291-4964-8d78-9e34c2299b45",
+       "_cnpj": 2345678900001,
+       "_fantasia": "PHOENIX CARRIERS"
+     },
+     {
+       "_id": "0e99f223-5763-4876-9b9f-6031c8d8f76f",
+       "_cnpj": 6789012340001,
+       "_fantasia": "CARGOXPRESS"
+     },
+     {
+       "_id": "c7dc509e-30b4-43a8-b0aa-f42df94495a3",
+       "_cnpj": 4567890120001,
+       "_fantasia": "TRANSNET SOLUTIONS"
+     },
+     {
+       "_id": "48b1707e-3e92-4e8e-a0c1-c49ba09836d2",
+       "_cnpj": 9012345670001,
+       "_fantasia": "RAPID CARGO"
+     },
+     {
+       "_id": "ff1e258e-89e0-4c78-b3c5-48bae8c0546b",
+       "_cnpj": 1230987650001,
+       "_fantasia": "AEROLOGIX"
+     }
+   ]
+ }
+ 

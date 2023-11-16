@@ -1,0 +1,314 @@
+{
+  "status":1,
+  "code":200,
+  "message":"Solicitação atendida com sucesso!",
+  "description":"API de listagem de entregas.",
+  "data":[
+     {
+        "_id":"f1e7be5c-90f3-4b0a-a5ff-3a44941a5412",
+        "_id_transportadora":"1f0a1c69-3e02-4f40-a10e-1b8c80d5d7c6",
+        "_volumes":1,
+        "_remetente":{
+           "_nome":"Lojas B - Suprimentos Alimentos"
+        },
+        "_destinatario":{
+           "_nome":"Maria Oliveira",
+           "_cpf": "35595606088",
+           "_endereco":"Avenida Principal, 456",
+           "_estado":"Rio de Janeiro",
+           "_cep":"04567-890",
+           "_pais":"Brasil",
+           "_geolocalizao":{
+              "_lat":"-22.9068",
+              "_lng":"-43.1729"
+           }
+        },
+        "_rastreamento":[
+           {
+              "message":"ENTREGA CRIADA",
+              "date":"2023-11-14T09:00:00Z"
+           },
+           {
+              "message":"EM TRÂNSITO",
+              "date":"2023-11-15T10:30:00Z"
+           },
+           {
+              "message":"SAIU PARA ENTREGA",
+              "date":"2023-11-16T08:45:00Z"
+           },
+           {
+              "message":"ENTREGA REALIZADA",
+              "date":"2023-11-17T11:20:00Z"
+           }
+        ]
+     },
+     {
+        "_id":"ad590e7f-f8b3-4739-8fe0-33fb0a39aa6f",
+        "_id_transportadora":"b03aae7e-2014-4a1b-8fbf-589f7e42c39e",
+        "_volumes":3,
+        "_remetente":{
+           "_nome":"Carlos Ferreira - Mercado Online"
+        },
+        "_destinatario":{
+           "_nome":"Ana Souza",
+           "_cpf": "24200351005",
+           "_endereco":"Avenida das Pedras, 4536",
+           "_estado":"Bahia",
+           "_cep":"06789-012",
+           "_pais":"Brasil",
+           "_geolocalizao":{
+              "_lat":"-12.9718",
+              "_lng":"-38.5011"
+           }
+        },
+        "_rastreamento":[
+           {
+              "message":"ENTREGA CRIADA",
+              "date":"2023-11-15T09:30:00Z"
+           },
+           {
+              "message":"EM TRÂNSITO",
+              "date":"2023-11-16T11:00:00Z"
+           }
+        ]
+     },
+     {
+        "_id":"e8e4fe50-8d57-45c0-85c2-d2c1f282fd0e",
+        "_id_transportadora":"7de173f7-6708-4c02-82a4-83ee1f6172e5",
+        "_volumes":2,
+        "_remetente":{
+           "_nome":"Peças Auto - TTR"
+        },
+        "_destinatario":{
+           "_nome":"Ricardo Oliveira",
+           "_cpf": "81175778010",
+           "_endereco":"Rua Principal, 7829",
+           "_estado":"São Paulo",
+           "_cep":"07890-345",
+           "_pais":"Brasil",
+           "_geolocalizao":{
+              "_lat":"-23.5505",
+              "_lng":"-46.6333"
+           }
+        },
+        "_rastreamento":[
+           {
+              "message":"ENTREGA CRIADA",
+              "date":"2023-11-16T10:00:00Z"
+           },
+           {
+              "message":"EM TRÂNSITO",
+              "date":"2023-11-17T09:45:00Z"
+           },
+           {
+              "message":"SAIU PARA ENTREGA",
+              "date":"2023-11-18T08:30:00Z"
+           }
+        ]
+     },
+     {
+        "_id":"aba7051f-61b3-463b-8976-52122f60c68f",
+        "_id_transportadora":"f7b59a8e-d4ad-4cb3-b2f1-3dbcf20888f4",
+        "_volumes":1,
+        "_remetente":{
+           "_nome":"Gomes Prado Imóveis Sob"
+        },
+        "_destinatario":{
+           "_nome":"Fernanda Lima",
+           "_cpf": "32074467010",
+           "_endereco":"Avenida das Rosas, 8190",
+           "_estado":"Santa Catarina",
+           "_cep":"05678-234",
+           "_pais":"Brasil",
+           "_geolocalizao":{
+              "_lat":"-27.5954",
+              "_lng":"-48.5480"
+           }
+        },
+        "_rastreamento":[
+           {
+              "message":"ENTREGA CRIADA",
+              "date":"2023-11-18T08:00:00Z"
+           },
+           {
+              "message":"EM TRÂNSITO",
+              "date":"2023-11-19T10:15:00Z"
+           },
+           {
+              "message":"CHEGOU À CIDADE DE DESTINO",
+              "date":"2023-11-20T11:30:00Z"
+           },
+           {
+              "message":"ENTREGA REALIZADA",
+              "date":"2023-11-21T09:20:00Z"
+           }
+        ]
+     },
+     {
+        "_id":"d5be99ab-c4bc-462f-ba91-eadb9ac7c6c1",
+        "_id_transportadora":"52f2e4b8-12a6-468e-b62f-3a38ee6d69e0",
+        "_volumes":2,
+        "_remetente":{
+           "_nome":"Vieira Para Você"
+        },
+        "_destinatario":{
+           "_nome":"Roberto Santos",
+           "_cpf": "09372525065",
+           "_endereco":"Avenida das Flores, 1233",
+           "_estado":"Distrito Federal",
+           "_cep":"03456-890",
+           "_pais":"Brasil",
+           "_geolocalizao":{
+              "_lat":"-15.8267",
+              "_lng":"-47.9218"
+           }
+        },
+        "_rastreamento":[
+           {
+              "message":"ENTREGA CRIADA",
+              "date":"2023-11-20T11:30:00Z"
+           },
+           {
+              "message":"EM TRÂNSITO",
+              "date":"2023-11-21T08:45:00Z"
+           },
+           {
+              "message":"SAIU PARA ENTREGA",
+              "date":"2023-11-22T09:20:00Z"
+           },
+           {
+              "message":"ENTREGA REALIZADA",
+              "date":"2023-11-23T10:50:00Z"
+           }
+        ]
+     },
+     {
+        "_id":"02f7f23c-d4c2-44a2-b1e7-7b50be4a203b",
+        "_id_transportadora":"7de173f7-6708-4c02-82a4-83ee1f6172e5",
+        "_volumes":2,
+        "_remetente":{
+           "_nome":"CoMed - Medicamentos Ultra RS"
+        },
+        "_destinatario":{
+           "_nome":"Fernanda Lima",
+           "_cpf": "54795289042",
+           "_endereco":"Rua Principal, 3321",
+           "_estado":"Santa Catarina",
+           "_cep":"06789-012",
+           "_pais":"Brasil",
+           "_geolocalizao":{
+              "_lat":"-27.5954",
+              "_lng":"-48.5480"
+           }
+        },
+        "_rastreamento":[
+           {
+              "message":"ENTREGA CRIADA",
+              "date":"2023-11-16T08:00:00Z"
+           },
+           {
+              "message":"EM TRÂNSITO",
+              "date":"2023-11-17T09:30:00Z"
+           },
+           {
+              "message":"CHEGOU À FILIAL DA CIDADE",
+              "date":"2023-11-18T10:45:00Z"
+           }
+        ]
+     },
+     {
+        "_id":"53d0d4e1-0b8b-4c06-b676-3e0c0c27c52d",
+        "_id_transportadora":"52f2e4b8-12a6-468e-b62f-3a38ee6d69e0",
+        "_volumes":1,
+        "_remetente":{
+           "_nome":"Agro Pill TO"
+        },
+        "_destinatario":{
+           "_nome":"Marcelo Costa",
+           "_cpf": "62817818059",
+           "_endereco":"Avenida Principal, 8901",
+           "_estado":"Rio Grande do Norte",
+           "_cep":"04567-890",
+           "_pais":"Brasil",
+           "_geolocalizao":{
+              "_lat":"-5.7945",
+              "_lng":"-35.2110"
+           }
+        },
+        "_rastreamento":[
+           {
+              "message":"ENTREGA CRIADA",
+              "date":"2023-11-20T08:30:00Z"
+           }
+        ]
+     },
+     {
+        "_id":"e9bcf89a-1b8e-4df4-b9b4-df33b9dfc3c5",
+        "_id_transportadora":"2c71e3b0-1291-4964-8d78-9e34c2299b45",
+        "_volumes":3,
+        "_remetente":{
+           "_nome":"EComercial Compre Online"
+        },
+        "_destinatario":{
+           "_nome":"Pedro Alves",
+           "_cpf": "01582267049",
+           "_endereco":"Avenida Principal, 7829",
+           "_estado":"Pernambuco",
+           "_cep":"09876-543",
+           "_pais":"Brasil",
+           "_geolocalizao":{
+              "_lat":"-8.0476",
+              "_lng":"-34.8770"
+           }
+        },
+        "_rastreamento":[
+           {
+              "message":"ENTREGA CRIADA",
+              "date":"2023-11-24T08:00:00Z"
+           },
+           {
+              "message":"EM TRÂNSITO",
+              "date":"2023-11-25T09:30:00Z"
+           },
+           {
+              "message":"CHEGOU À FILIAL DA CIDADE",
+              "date":"2023-11-26T10:45:00Z"
+           },
+           {
+              "message":"ENTREGA REALIZADA",
+              "date":"2023-11-27T12:15:00Z"
+           }
+        ]
+     },
+     {
+        "_id":"d1f22415-526f-4be0-8f13-d4be034da858",
+        "_id_transportadora":"0e99f223-5763-4876-9b9f-6031c8d8f76f",
+        "_volumes":2,
+        "_remetente":{
+           "_nome":"Ricardo Carvalho ME"
+        },
+        "_destinatario":{
+           "_nome":"Isabela Santos",
+           "_cpf": "35350517031",
+           "_endereco":"Avenida das Flores, 4561",
+           "_estado":"Mato Grosso",
+           "_cep":"67890-123",
+           "_pais":"Brasil",
+           "_geolocalizao":{
+              "_lat":"-15.5989",
+              "_lng":"-56.0949"
+           }
+        },
+        "_rastreamento":[
+           {
+              "message":"ENTREGA CRIADA",
+              "date":"2023-11-28T08:30:00Z"
+           },
+           {
+              "message":"EM TRÂNSITO",
+              "date":"2023-11-29T10:00:00Z"
+           }
+        ]
+     }
+  ]
+}
