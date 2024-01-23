@@ -49,7 +49,7 @@ Na data estipulada pelo recrutador, assegure-se de ter sua aplicação em execu�
 
 ## [:books: Sobre o desafio técnico](#books-sobre-o-desafio-técnico)
 ### [:arrow_right: Cenário](#arrow_right-cenário) 
-Como parte da equipe de desenvolvimento da Brudam, você foi designado para liderar a implementação de uma tela de rastreamento de entregas. A diretoria está ansiosa para oferecer aos clientes uma experiência mais transparente e detalhada sobre o status de suas cargas em trânsito. Para isso, foi disponibilidado dois endpoints para que você possa consumir essas informações.
+Como parte da equipe de desenvolvimento da Brudam, você foi designado para liderar a implementação de uma tela de rastreamento de entregas. A diretoria está ansiosa para oferecer aos clientes uma experiência mais transparente e detalhada sobre o status de suas cargas em trânsito. Para isso, foi disponibilizado dois endpoints para que você possa consumir essas informações.
 
 ### [:arrow_right: Endpoints](#arrow_right-endpoints) 
 
