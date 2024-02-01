@@ -116,6 +116,8 @@ Um requisito fundamental é implementar um banco de dados para armazenar as info
   
   3. No âmbito deste teste, o foco primordial reside na implementação essencial do que foi proposto. Isso implica que a parte visual (front-end) não terá um papel decisivo na avaliação. 
 
+  4. Caso você não consiga completar o teste a tempo do prazo, documente de forma escrita o que não foi terminado e o que você precisaria fazer para terminar. Durante a conversa técnica podemos discutir melhor essa questão. 
+
 ## [:dart: Consideramos um diferencial](#dart-consideramos-um-diferencial)
 - Uso de Design Patterns
 - Uso de Docker
